@@ -1,3 +1,5 @@
+### C++
+
 This repository contains some algorithms implemented in C++ for learning nothing is optimal.
 
 ### Stuff to do
