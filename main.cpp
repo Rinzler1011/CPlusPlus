@@ -1,8 +1,6 @@
+#include "merge_sort.h"
 #include <iostream>
 #define MAX 8
-//test
-
-void merge_sort(int arr[MAX], int, int);
 
 int arr[MAX];
 
