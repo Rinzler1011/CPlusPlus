@@ -1,3 +1,4 @@
+#include "merge_sort.h"
 #include <iostream>
 
 void merge(int arr[], int left, int mid, int right)
